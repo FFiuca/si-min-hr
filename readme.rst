@@ -1,5 +1,5 @@
 ###################
-Tentang Aplikasi
+Tentang Aplikasi Edited
 ###################
 using CI 3
 
